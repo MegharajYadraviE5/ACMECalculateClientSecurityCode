@@ -1,0 +1,8 @@
+{  
+         "ACMEURL":"https://acme-test.uipath.com/",
+         "ACMECreds":"ACMECreds",
+         "ACMEWorkItemsURL":"https://acme-test.uipath.com/work-items/",
+         "SHA1URL":"http://www.sha1-online.com/",
+         "MailTo":"megharaj.yadravi@e5.ai",
+         "MailSubject":"Calculate Client Security Hash Report - "
+}
